@@ -7,3 +7,4 @@
 2023-09-18 13:54:51.806 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
 2023-09-18 13:54:51.807 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
 2023-09-18 13:55:02.083 [info] [perf] Render performance baseline is 255ms
+2023-09-18 14:49:50.276 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
