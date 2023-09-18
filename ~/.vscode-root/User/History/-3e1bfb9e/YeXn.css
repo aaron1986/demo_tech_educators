@@ -1,9 +1,0 @@
-h1 {
-  font-family: "header-text";
-  font-size: 6rem;
-}
-
-@font-face {
-  font-family: "header-text";
-  src: url("../fonts/orange.ttf");
-}
