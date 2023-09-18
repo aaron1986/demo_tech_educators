@@ -1,0 +1,29 @@
+2023-09-18 09:13:41.156 [info] [perf] Render performance baseline is 151ms
+2023-09-18 09:13:43.179 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.195 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.204 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.207 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.227 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.228 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.237 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:13:43.238 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.557 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.579 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.582 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.594 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.597 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.600 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.601 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:14:57.605 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-18 09:15:02.240 [info] [perf] Render performance baseline is 56ms
+2023-09-18 10:57:46.810 [error] Unable to read file '/home/user/webpages_tech/demo_tech_educators/app.js' (Error: File not modified since): Error: Unable to read file '/home/user/webpages_tech/demo_tech_educators/app.js' (Error: File not modified since)
+    at r.w (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:16316)
+    at r.v (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:16204)
+    at async b.H (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:37067)
+    at async b.readStream (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:36824)
+    at async L.zb (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2329:29196)
+    at async L.resolve (vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2329:27643)
+    at async vscode-file://vscode-app/snap/code/140/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:32937
+2023-09-18 13:36:45.424 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-09-18 13:37:00.304 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-09-18 13:37:00.761 [info] UNRESPONSIVE extension host: starting to profile NOW

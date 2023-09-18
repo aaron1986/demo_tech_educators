@@ -1,0 +1,35 @@
+2023-09-18 10:19:27.960 [info] Getting Manifest... oderwat.indent-rainbow
+2023-09-18 10:19:27.994 [info] Installing extension: oderwat.indent-rainbow
+2023-09-18 10:19:36.045 [info] Extension signature is verified: oderwat.indent-rainbow
+2023-09-18 10:19:38.613 [info] Extracted extension to file:///root/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2023-09-18 10:19:38.627 [info] Renamed to /root/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2023-09-18 10:19:38.638 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-09-18 10:19:38.687 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-09-18 10:22:08.651 [info] Getting Manifest... usernamehw.errorlens
+2023-09-18 10:22:08.696 [info] Installing extension: usernamehw.errorlens
+2023-09-18 10:22:13.564 [info] Extension signature is verified: usernamehw.errorlens
+2023-09-18 10:22:13.700 [info] Extracted extension to file:///root/.vscode/extensions/usernamehw.errorlens-3.13.0: usernamehw.errorlens
+2023-09-18 10:22:13.757 [info] Renamed to /root/.vscode/extensions/usernamehw.errorlens-3.13.0
+2023-09-18 10:22:13.767 [info] Extracting extension completed. usernamehw.errorlens
+2023-09-18 10:22:13.840 [info] Extension installed successfully: usernamehw.errorlens
+2023-09-18 10:23:21.585 [info] Getting Manifest... esbenp.prettier-vscode
+2023-09-18 10:23:21.617 [info] Installing extension: esbenp.prettier-vscode
+2023-09-18 10:23:26.291 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-09-18 10:23:27.167 [info] Extracted extension to file:///root/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-09-18 10:23:27.213 [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-09-18 10:23:27.224 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-09-18 10:23:27.301 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-09-18 10:29:51.794 [info] Getting Manifest... aaron-bond.better-comments
+2023-09-18 10:29:51.825 [info] Installing extension: aaron-bond.better-comments
+2023-09-18 10:29:56.127 [info] Extension signature is verified: aaron-bond.better-comments
+2023-09-18 10:29:56.343 [info] Extracted extension to file:///root/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2023-09-18 10:29:56.376 [info] Renamed to /root/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2023-09-18 10:29:56.395 [info] Extracting extension completed. aaron-bond.better-comments
+2023-09-18 10:29:56.436 [info] Extension installed successfully: aaron-bond.better-comments
+2023-09-18 10:30:21.667 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2023-09-18 10:30:21.840 [info] Installing extension: vscode-icons-team.vscode-icons
+2023-09-18 10:30:27.290 [info] Extension signature is verified: vscode-icons-team.vscode-icons
+2023-09-18 10:30:29.937 [info] Extracted extension to file:///root/.vscode/extensions/vscode-icons-team.vscode-icons-12.5.0: vscode-icons-team.vscode-icons
+2023-09-18 10:30:30.009 [info] Renamed to /root/.vscode/extensions/vscode-icons-team.vscode-icons-12.5.0
+2023-09-18 10:30:30.042 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2023-09-18 10:30:30.122 [info] Extension installed successfully: vscode-icons-team.vscode-icons

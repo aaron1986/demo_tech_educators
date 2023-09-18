@@ -1,0 +1,8 @@
+h1 {
+  font-family: "header-text";
+}
+
+@font-face {
+  font-family: "header-text";
+  src: url("../fonts/orange.ttf");
+}
